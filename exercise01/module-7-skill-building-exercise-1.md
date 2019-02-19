@@ -1,17 +1,11 @@
 # Module 7 - Skill Building Exercise No. 1
 
-## Build a Game Class
+## Years to Double an Ivestment
 
-Build a class that can be used in a multiplayer game. 
+Write a program that uses a **while loop** to determine how long it takes for an investment to double at a given interest rate. 
 
-The class needs to do the following:
+The input will be an annualized interest rate, and the output is the number of years it takes an investment to double. 
 
-1. Support from 1 to 1,000,000 players
-2. Have the ability to create new players
-3. When a new player is created a name and a player color needs to be assigned
-4. When a new player is created their "status" needs to be set to "Alive"
-5. A new player will also be assigned a blank list of tools when they are created. This list will hold future tools won throughout the game.
-6. Methods will need to be created to:
-  - Get the users list of tools
-  - Get the users status (Alive, Dead, Breathing, Injured)
-7. Have the ability to add or remove a tool and to get the list of their tools
+**Note:** the amount of the initial investment does not matter; you can use $1.
+
+Use the examples from the class that showed you to calculate the future value of an investment. Look through Modules 1 - 3 in Canvas.
