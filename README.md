@@ -1,6 +1,6 @@
 # Module 7 Skill Building Exercises
 
-There are 3 skill building exercises for Module 7.
+There are **5** skill building exercises for Module 7.
 
 - [Exercise No. 1 - Years to Double an Ivestment](https://github.com/belgort-clark/ctec-121-module-7-skill-building/tree/master/exercise01)
 - [Exercise No. 2 - Program to Figure Out Gas Mileage Over a Multiple-leg Journey](https://github.com/belgort-clark/ctec-121-module-7-skill-building/tree/master/exercise02)
