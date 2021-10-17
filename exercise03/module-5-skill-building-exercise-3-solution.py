@@ -1,4 +1,4 @@
-# Module 7 - Skill Building Exercise No. 3 Solution
+# Module 5 - Skill Building Exercise No. 3 Solution
 
 def main():
     print("This program calculates fuel efficiency over a multi-leg journey.")
@@ -7,7 +7,7 @@ def main():
     print("one leg of the journey.\n")
 
     fname = input("What file contains the data (trip.dat)? ")
-    infile = open(fname,'r')
+    infile = open(fname, 'r')
 
     distance, fuel = 0.0, 0.0
     for line in infile:
@@ -19,7 +19,7 @@ def main():
         distance = distance + miles
         fuel = fuel + gallons
     infile.close()
-    
+
     print("\nYou traveled a total of {0:0.1f} miles on {1:0.1f} gallons."
           .format(distance, fuel))
     print("The fuel efficiency was {0:0.1f} miles per gallon."

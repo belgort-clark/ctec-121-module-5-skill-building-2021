@@ -1,4 +1,4 @@
-# Module 7 - Skill Building Exercise No. 1 Solution
+# Module 5 - Skill Building Exercise No. 1 Solution
 
 def main():
     print("Number of years for an investment to double.\n")

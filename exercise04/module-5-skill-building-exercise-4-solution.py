@@ -1,4 +1,4 @@
-# Module 7 - Skill Building Exercise No. 4 Solution
+# Module 5 - Skill Building Exercise No. 4 Solution
 
 def main():
     print("Heating and Cooling degree-day calculation.\n")

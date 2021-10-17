@@ -1,6 +1,8 @@
-# Module 7 - Skill Building Exercise No. 4
+# Module 5 - Skill Building Exercise No. 5
 
-## Heating and Cooling
+## Heating and Cooling - Take Two
+
+**MODIFY THE PREVIOUS SKILL BUILDING EXERCISE TO GET IT'S INPUT FROM A TEXT FILE**
 
 Heating and cooling degree days are measures used by utility companies to estimate energy requirements.
 

@@ -1,11 +1,11 @@
-# Module 7 - Skill Building Exercise No. 2 Solution
+# Module 5 - Skill Building Exercise No. 2 Solution
 
 def main():
     print("This program calculates fuel efficiency over a multi-leg journey.")
     print("You should enter the gallons of gas consumed and miles traveled")
     print("for each leg. Just hit <Enter> to signal the end of the trip.")
     print()
-    
+
     distance, fuel = 0.0, 0.0
     inStr = input("Enter gallons and miles (with a comma between): ")
     while inStr != "":

@@ -1,4 +1,4 @@
-# Module 7 - Skill Building Exercise No. 3
+# Module 5 - Skill Building Exercise No. 3
 
 ## Program to Figure Out Gas Mileage Over a Multiple-leg Journey Using Data From a File
 

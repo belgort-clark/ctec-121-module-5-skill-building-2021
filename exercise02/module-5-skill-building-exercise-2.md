@@ -1,4 +1,4 @@
-# Module 7 - Skill Building Exercise No. 2
+# Module 5 - Skill Building Exercise No. 2
 
 ## Program to figure out gas mileage over a multiple-leg journey
 

@@ -1,4 +1,4 @@
-# Module 7 - Skill Building Exercise No. 1
+# Module 5 - Skill Building Exercise No. 1
 
 ## Years to Double an Investment
 
